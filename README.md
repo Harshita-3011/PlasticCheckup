@@ -1,8 +1,4 @@
-# TechHeads
-
-# Project Title
-
-Plastic Classification App
+#Plastic Classification App
 
 ## Project Description
 

@@ -35,17 +35,19 @@ So we will be collecting plastic waste from government or NGO's, segregate it an
 • Train the model with training data for 10 epochs and validation data
 • Save the trained model to the specified path and print confirmation message
 
-##Architecture
+## Architecture
 ![377790195-1a459186-d574-410c-be80-6c359a0c7d00](https://github.com/user-attachments/assets/3f5f784c-f59f-4c75-b4d6-713ac2cf86f3)
 
 
 ![377790344-055823e8-1269-4c85-bf88-f338bb8452a4](https://github.com/user-attachments/assets/0c2348d3-3c50-43b0-b8f1-9ad5da555218)
 
-##Results
-#Homepage
+## Results
+# Homepage
 ![377788186-c5d94f1d-1191-4a2c-be3b-dcfee1de3d48](https://github.com/user-attachments/assets/be03708a-ed90-44e3-a533-298a1ed31f0f)
 
-#Admin Dashboard
+# Admin Dashboard
+![377792461-eb135ad2-dce4-4761-ae6f-c93461e09a26](https://github.com/user-attachments/assets/dfd88cb4-ec65-47a8-8ca6-f6cb46722084)
+
 ![377792562-65c14132-0bd5-407e-8f28-52d14563cc65](https://github.com/user-attachments/assets/f8fb9437-e8c4-4788-b094-77b35bdc64c9)
 
 

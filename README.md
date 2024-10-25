@@ -42,10 +42,10 @@ So we will be collecting plastic waste from government or NGO's, segregate it an
 ![377790344-055823e8-1269-4c85-bf88-f338bb8452a4](https://github.com/user-attachments/assets/0c2348d3-3c50-43b0-b8f1-9ad5da555218)
 
 ## Results
-# Homepage
+ Homepage
 ![377788186-c5d94f1d-1191-4a2c-be3b-dcfee1de3d48](https://github.com/user-attachments/assets/be03708a-ed90-44e3-a533-298a1ed31f0f)
 
-# Admin Dashboard
+ Admin Dashboard
 ![377792461-eb135ad2-dce4-4761-ae6f-c93461e09a26](https://github.com/user-attachments/assets/dfd88cb4-ec65-47a8-8ca6-f6cb46722084)
 
 ![377792562-65c14132-0bd5-407e-8f28-52d14563cc65](https://github.com/user-attachments/assets/f8fb9437-e8c4-4788-b094-77b35bdc64c9)
